@@ -1,7 +1,6 @@
 {
-  "name": "language_translator_app",
-  "author": "Sonu Prasad",
-  "private": true,
+  "name": "vocabvoyage",
+  "author": "raviranjan",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
