@@ -3,6 +3,7 @@
   "author": "raviranjan",
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://rknith.github.io/VOCABVOYAGE",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
